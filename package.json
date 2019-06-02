@@ -1,0 +1,11 @@
+{
+  "name": "coresbot",
+  "version": "beta 1.0.0",
+  "description": "Cores main bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Core",
+  "license": "ISC"
+}
